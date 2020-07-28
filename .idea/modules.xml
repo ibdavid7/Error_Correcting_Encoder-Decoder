@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error_Correcting_Encoder-Decoder.iml" filepath="$PROJECT_DIR$/.idea/modules/Error_Correcting_Encoder-Decoder.iml" group="Error_Correcting_Encoder-Decoder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error Correcting Encoder-Decoder/task/Error_Correcting_Encoder-Decoder-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Error Correcting Encoder-Decoder/task/Error_Correcting_Encoder-Decoder-task.iml" group="Error_Correcting_Encoder-Decoder/Error_Correcting_Encoder-Decoder-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error Correcting Encoder-Decoder/task/Error_Correcting_Encoder-Decoder-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Error Correcting Encoder-Decoder/task/Error_Correcting_Encoder-Decoder-task_main.iml" group="Error_Correcting_Encoder-Decoder/Error_Correcting_Encoder-Decoder-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error Correcting Encoder-Decoder/task/Error_Correcting_Encoder-Decoder-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Error Correcting Encoder-Decoder/task/Error_Correcting_Encoder-Decoder-task_test.iml" group="Error_Correcting_Encoder-Decoder/Error_Correcting_Encoder-Decoder-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes.iml" group="Error_Correcting_Encoder-Decoder/Problems-Convert_to_bytes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_main.iml" group="Error_Correcting_Encoder-Decoder/Problems-Convert_to_bytes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to bytes/Problems-Convert_to_bytes_test.iml" group="Error_Correcting_Encoder-Decoder/Problems-Convert_to_bytes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words.iml" group="Error_Correcting_Encoder-Decoder/Problems-Count_words" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_main.iml" group="Error_Correcting_Encoder-Decoder/Problems-Count_words" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count words/Problems-Count_words_test.iml" group="Error_Correcting_Encoder-Decoder/Problems-Count_words" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text.iml" group="Error_Correcting_Encoder-Decoder/Problems-Reverse_input_text" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_main.iml" group="Error_Correcting_Encoder-Decoder/Problems-Reverse_input_text" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reverse input text/Problems-Reverse_input_text_test.iml" group="Error_Correcting_Encoder-Decoder/Problems-Reverse_input_text" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Error_Correcting_Encoder-Decoder/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Error_Correcting_Encoder-Decoder/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Error_Correcting_Encoder-Decoder/util" />
+    </modules>
+  </component>
+</project>
